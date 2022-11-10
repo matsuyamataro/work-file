@@ -1,0 +1,76 @@
+<html>
+    <header>
+        <h2>11月11日はベースの日! 何で？</h2>
+    </header>
+    
+
+    <body>
+    <h2>
+        <b>ベースの種類について</b>
+    </h2>
+    <hr>
+    <section>
+        <h2>ジャズベース</h2>
+        <h>
+            ジャズ・ベースはデュアル・シングルコイルのピックアップに、<br>
+            1弦あたり2セットずつのポールピースが割り当てられ、よりはっきり<br>
+            とした高音とパワフルなミッドレンジが特徴的です。<br>
+            
+            <img src="https://img.digimart.net/prdimg/m/2e/8996fef7f5796e0c93f8e40484f11fef4e9043.jpg"width="193" height="130"
+        </h> 
+      </section>
+    
+      <section>
+
+        <hr>
+<h2>プレジションベース</h2>
+<h>
+
+    プレベはピックアップがひとつなので、ヴォリューム、トーンが<br>
+    ひとつずつというシンプルな構成。 音色は丸くウォームなものが多く、<br>
+    パワフルなサウンド・キャラクターが特徴的です。 <br>
+    <img src="https://img.fril.jp/img/254832593/l/752243281.jpg?1570544825"width="193" height="200"
+
+</h>
+  </section>
+
+  <section>
+
+    <hr>
+<h2>ベースの日である理由</h2>
+
+<h>
+    11月11日。
+
+    縦に真っ直ぐな棒が４本…これって４本の弦に見立てれば、まさにベース！<br>
+    
+    「ベースの日」とは、どうしたら「ベースがさらに市民権を得られるか」を考えてみたり・・・<br>
+    どうしたら「ベースという楽器のすばらしさを知ってもらえるか」を考えてみたり・・・<br>
+    「ベースという楽器を通して、音楽とふれあえるきっかけをもっと作っていこう！」という日です。<br>
+<h4>関連記事</h4>
+    <a href="https://bass1111.com/about">ベースの日とは</a>
+
+</h>
+
+
+  </section>
+  <hr>
+
+<section>
+    <form>
+        <div class="example">
+          <label for="namelabel">好きな楽器は？</label><br>
+
+         <h2> 
+            <input type="text" name="name" id="namelabel" placeholder="例）アクティブベース">
+        </h2>
+        </div>
+        <p></p>
+        <div class="example">
+            <input type="submit" value="送信する">
+          </div> 
+    </form>
+</section>
+
+    </body>
+</html>
